@@ -26,7 +26,7 @@ permalink: /
 
 ## About the project
 
-DART-ID is a project developed in the [Slavov Laboratory](https://web.northeastern.edu/slavovlab/) at [Northeastern University](https://www.northeastern.edu/) [Bioengineering](http://www.bioe.neu.edu/), and was authored by [Harrison Specht](hspekt.github.io), [Ed Emmott](https://edemmott.co.uk), [David Perlman], [Toni Koller], and [Nikolai Slavov](https://web.northeastern.edu/slavovlab/).
+SCoPE2 is a project developed in the [Slavov Laboratory](https://web.northeastern.edu/slavovlab/) at [Northeastern University](https://www.northeastern.edu/) [Bioengineering](http://www.bioe.neu.edu/), and was authored by [Harrison Specht](hspekt.github.io), [Ed Emmott](https://edemmott.co.uk), [David Perlman], [Toni Koller], and [Nikolai Slavov](https://web.northeastern.edu/slavovlab/).
 
 Contact the authors by email: [nslavov\{at\}northeastern.edu](mailto:nslavov@northeastern.edu).
 
